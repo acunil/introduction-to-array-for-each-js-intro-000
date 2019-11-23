@@ -25,8 +25,8 @@ var cart = [
 
 function checkCart(item){
  cart.forEach(obj => {
-  if(obj.name === item){
+  // if(obj.name === item){
     return `${item} costs $${obj.price}.`;
-  } 
+ // } 
  });
 }
