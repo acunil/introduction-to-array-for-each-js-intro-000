@@ -15,7 +15,7 @@ evens.forEach(num => {
 });
 
 
-cart = [
+var cart = [
   {"name":"quora", "price":20},
   {"name":"boots", "price":10},
   {"name":"june", "price":5},
