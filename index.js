@@ -13,3 +13,11 @@ evens.forEach(even => {
 evens.forEach(num => {
   num === 6 ? console.log(`${num} is 6!`) : console.log(`${num} is not 6...`);
 });
+
+
+cart = [
+  {"name":"quora", "price":20},
+  {"name":"quora", "price":20},
+  {"name":"quora", "price":20},
+  {"name":"quora", "price":20}
+  ]
