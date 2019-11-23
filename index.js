@@ -8,3 +8,8 @@ evens.forEach(even => {
 
 
 // Add your changeCompletely() function here:
+
+
+evens.forEach(num => {
+  num === 6 ? console.log(`${num} is 6!`) : console.log(`${num} is not 6...`);
+});
