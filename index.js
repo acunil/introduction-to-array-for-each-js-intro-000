@@ -9,7 +9,6 @@ function doToElementsInArray(array, callback) {
 
 function changeCompletely(element, index, array) {
   array[index] = Math.floor(Math.random()*100 + 2).toString() + ` ${array[index]}s!!!`;
-  console.log(array);
 }
 
 var animals = ["dogby", "rat", "parrot"];
