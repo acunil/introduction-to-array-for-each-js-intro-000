@@ -30,5 +30,5 @@ function checkCart(item){
   } else {
     return `${item} is not sold here.`;
   }
-});
+ });
 }
