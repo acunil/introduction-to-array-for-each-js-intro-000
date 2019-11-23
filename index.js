@@ -17,7 +17,8 @@ evens.forEach(num => {
 
 cart = [
   {"name":"quora", "price":20},
-  {"name":"quora", "price":20},
-  {"name":"quora", "price":20},
-  {"name":"quora", "price":20}
-  ]
+  {"name":"boots", "price":10},
+  {"name":"june", "price":5},
+  {"name":"bike", "price":3}
+  ];
+  
